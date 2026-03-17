@@ -1,45 +1,35 @@
-# גבעת התחמושת — Generative Engine Optimization Map
-
-> A memorial and heritage website commemorating Ammunition Hill (Givat HaTachmoshet), a historic battle site from the Six-Day War in 1967. The site focuses on honoring the memory of fallen soldiers and preserving the historical significance of this pivotal battle in Jerusalem. The atmosphere should be respectful, commemorative, and educational, capturing the heroism and sacrifice of the soldiers while providing historical context and visitor information.
+# Business — Generative Engine Optimization Map
 
 ---
 
 ## Pages
 
 ### בית
-https://-dbd36e0c.zappy5.app
+https://example.com
 גלו את סיפור הגבורה של גבעת התחמושת במלחמת ששת הימים 1967. אתר הנצחה היסטורי בירושלים המנציח את זכר הלוחמים שנפלו בקרב המכריע. בואו לחוות תיעוד מרגש ומקיף.
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://-dbd36e0c.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://-dbd36e0c.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://-dbd36e0c.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
 
 # Business Context (for LLM understanding)
 
-## About גבעת התחמושת
-A memorial and heritage website commemorating Ammunition Hill (Givat HaTachmoshet), a historic battle site from the Six-Day War in 1967. The site focuses on honoring the memory of fallen soldiers and preserving the historical significance of this pivotal battle in Jerusalem. The atmosphere should be respectful, commemorative, and educational, capturing the heroism and sacrifice of the soldiers while providing historical context and visitor information.
-
-## Target Audience
-מבקרים, משפחות, חוקרים מלחמת ששת הימים
-
-## Industry
-הנצחה והנצחת זיכרון
-
+## About Business
 ---
 
 # Additional Resources
 
-- **Sitemap**: https://-dbd36e0c.zappy5.app/sitemap.xml
-- **Robots.txt**: https://-dbd36e0c.zappy5.app/robots.txt
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
